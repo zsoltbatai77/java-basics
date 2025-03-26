@@ -1,0 +1,3 @@
+# Player and Team Management System Task
+
+The task involves implementing a system that manages players and teams. The `Jatek` class stores the names and genres of the games and provides the functionality to add new genres. The `NemSzeretiException` exception is thrown when a player refuses to play a game. The `Jatekos` class manages the player's name, favorite game, and past games, and checks if the player is willing to try a new game. The `Csapat` class organizes players around a specific game and ensures that only compatible players are accepted. The `Szervezo` class is responsible for training players and dividing them into teams, considering the players' preferences. Proper exception handling and validations must be applied.
